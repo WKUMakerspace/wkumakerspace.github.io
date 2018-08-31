@@ -24,6 +24,12 @@ h5 {
     font-size: 1.125rem;
 }
 
+.redalert {
+    padding: 10px;
+    color: #ffffff;
+    background-color: #ff0000;
+}
+
 p, li {
     line-height: 1.5625rem;
     font-size: 1rem;
